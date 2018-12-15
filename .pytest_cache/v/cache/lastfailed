@@ -1,0 +1,5 @@
+{
+  "scripts/test_longin.py::TestLongin::()::testlongin[13600000000-789654]": true,
+  "scripts/test_search.py::Test_Search::()::test_search[123]": true,
+  "scripts/test_yaml.py": true
+}
