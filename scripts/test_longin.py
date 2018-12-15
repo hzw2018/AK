@@ -34,5 +34,6 @@ class TestLongin():
         self.longin.page_input_username(username)
         self.longin.page_input_password(password)
         self.longin.page_click_longin_btn()
-
+    def test_11(self):
+        print("输出test_11")
 
